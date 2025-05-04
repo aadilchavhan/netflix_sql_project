@@ -8,6 +8,7 @@ Objectives
 
 ## Dataset
 The dataset used for this project comes from Kaggle:
+**{Dataset Link:](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)**
 
 ## Findings and Insights
 This project showcases expertise in SQL for data analysis and emphasizes practical database querying techniques for business decision-making.
@@ -15,4 +16,4 @@ This project showcases expertise in SQL for data analysis and emphasizes practic
 ## Connect with Me
 If you'd like to discuss this project or collaborate, connect with me on LinkedIn:
 
-➡ [My LinkedIn Profile](https://www.linkedin.com/in/aadilchauhan/)
+➡ **[My LinkedIn Profile](https://www.linkedin.com/in/aadilchauhan/)**
