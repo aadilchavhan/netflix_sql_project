@@ -4,7 +4,6 @@
 
 ## Overview
 This project focuses on an in-depth analysis of Netflix’s movies and TV shows using SQL. The goal is to derive meaningful insights from the dataset, addressing key business questions related to content distribution, ratings, release trends, and genre analysis. By leveraging SQL queries, we extract actionable intelligence that provides a clear understanding of content trends on Netflix.
-Objectives
 
 ## Dataset
 The dataset used for this project comes from Kaggle:
